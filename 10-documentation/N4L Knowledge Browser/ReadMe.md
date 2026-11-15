@@ -60,3 +60,17 @@ Additionally, the input bar allows for doing alphabetical search for any of the 
 
 <img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/e4bca161-5d4f-4313-b821-03f6fd51c6c1" />
 ## Search Toolbox
+After proceeding to the browser, you will be directed into the Graph viewer which is the default view. However, this section is concerned about the Search toolbox which lies in the bottom of the screen as shown.
+<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/1da189b8-f480-4832-96b2-eb64f565eef4" />
+This toolbox allows the user to search among 7 different search filters. If one of them is left empty, this tells the backend search engine to retrieve the results without filtering this very category. The toolbox is responsible for the search for both the Graph view and the Notes view. It retrieves the matching results from the generated JSON file from the python compiler that is storing all the N4L relations inside the N4L source file. The 7 search filters can be discussed as follows:
+- Source entry: for searching for specific source
+- Destination entry: for searching for specific destination
+- Chapter entry: for specifying the search to be only in certain chapter(s)
+- Context entry: for specifying the search to be only in certain context(s)
+- Arrow Group Drop list: for choosing which arrow group(s) the search should be concerned about
+<img width="1600" height="422" alt="image" src="https://github.com/user-attachments/assets/129efa34-8263-4f6d-9daa-6d4085768fe3" />
+- Arrow Direction Drop list: for choosing the arrow direction the search should be concerned about (forward (in) or backward (out)).
+<img width="1600" height="281" alt="image" src="https://github.com/user-attachments/assets/91c48e4b-8823-4f3a-9673-e6f608e4a72a" />
+- Node entry: This one is used when the user is concerned about a certain node in general and wants to retrieves its relations whether when it comes as a source or destination.
+
+As mentioned before, when any entry is left without modification, this category is not filtered in the search. The Search toolbox controls simultaneously the Graph view and the Notes View.  
