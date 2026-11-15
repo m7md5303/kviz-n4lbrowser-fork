@@ -65,10 +65,15 @@ After proceeding to the browser, you will be directed into the Graph viewer whic
 
 <img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/1da189b8-f480-4832-96b2-eb64f565eef4" />
 This toolbox allows the user to search among 7 different search filters. If one of them is left empty, this tells the backend search engine to retrieve the results without filtering this very category. The toolbox is responsible for the search for both the Graph view and the Notes view. It retrieves the matching results from the generated JSON file from the python compiler that is storing all the N4L relations inside the N4L source file. The 7 search filters can be discussed as follows:
+
 - Source entry: for searching for specific source
+  
 - Destination entry: for searching for specific destination
+  
 - Chapter entry: for specifying the search to be only in certain chapter(s)
+  
 - Context entry: for specifying the search to be only in certain context(s)
+  
 - Arrow Group Drop list: for choosing which arrow group(s) the search should be concerned about
   
 <img width="1600" height="422" alt="image" src="https://github.com/user-attachments/assets/129efa34-8263-4f6d-9daa-6d4085768fe3" />
