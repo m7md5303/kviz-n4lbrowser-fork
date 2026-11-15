@@ -35,4 +35,14 @@ The markdown file is the output of the direct replacement of the N4L arrows with
 - N4L arrows are translated
 - Comments are removed
 
-**Note: Since the browser is HTML-based, it is required to replace each dot that is not a full stop `e.g. S.Adam` and each comma that is not separating between sentences `e.g. apple, banana` with `&period;` and `&comma;` respectively. Otherwise, they should be placed as dots and commas.**
+**Note: Since the browser is HTML-based, it is required to replace each dot that is not a full stop `e.g. S.Adam` and each comma that is not separating between sentences `e.g. apple, banana` with `&period;` and `&comma;`, respectively. Otherwise, they should be placed as dots and commas normally.**
+## Home Page
+This section is concerned about the GUI start, specifically at the homepage. As the image shows, the homepage provides link references for:
+- The N4L4Doc Article
+- The N4L2Doc Article
+- The Auto N4L2Doc Tool
+These three can be already found in this repository.
+
+For proceeding directly to the browser, one shall click on `Start Graph Browsing` button.
+<img width="631" height="414" alt="image" src="https://github.com/user-attachments/assets/d83a61b5-ae61-4f23-b48c-d035b557f975" />
+
