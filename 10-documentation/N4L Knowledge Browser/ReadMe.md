@@ -44,7 +44,7 @@ The markdown file is the output of the direct replacement of the N4L arrows with
 
 **Note: Since the browser is HTML-based, it is required to replace each dot that is not a full stop `e.g. S.Adam` and each comma that is not separating between sentences `e.g. apple, banana` with `&period;` and `&comma;`, respectively. Otherwise, they should be placed as dots and commas normally.**
 ## Home Page
-This section is concerned about the GUI start, specifically at the homepage. As the image shows, the homepage provides link references for:
+This section is concerned about the GUI start, specifically at the homepage. The browser is running locally on PC allowing for full privacy for the data. As the image shows, the homepage provides link references for:
 - The N4L4Doc Article
 - The N4L2Doc Article
 - The Auto N4L2Doc Tool
@@ -55,5 +55,8 @@ For proceeding directly to the browser, one shall click on `Start Graph Browsing
 ## Picking Files
 In this window, one shall choose which N4L files he would like to include in his search. As shown, there is a drop list having all the compiled N4L files viewed where the user can easily choose among them using the checkboxes.
 <img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/7c521210-aaf1-4c16-bdbf-0b5e81ff8ecd" />
+
 Additionally, the input bar allows for doing alphabetical search for any of the files in the list as shown in the following figure.
+
 <img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/e4bca161-5d4f-4313-b821-03f6fd51c6c1" />
+## Search Toolbox
