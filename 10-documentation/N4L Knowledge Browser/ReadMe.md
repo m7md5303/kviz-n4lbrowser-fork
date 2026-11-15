@@ -18,6 +18,13 @@ The following figure demonstrates the project architecture. The user is only req
 <img width="808" height="499" alt="image" src="https://github.com/user-attachments/assets/68df41ff-da91-4f72-af59-70940ed2a1b5" />
 ## Compiler Role
 As mentioned earlier, the compiler is built with Python and responsible for the construction of the browser database. It generates 2 files per each N4L file depending on the fed arrows files: (NR, LT, CN and EP). 
+
+For running the compiler, one shall run:
+```bash
+python3 n4l_bcompiler.py {directory to arrows files} {directory to the N4L source file}
+```
+The way of running the compiler script may differ in OS other than the Ubuntu 22.04 way mentioned here.
+
 ### JSON File
 The JSON file includes all the N4L relations that are present in the source N4L file. Each entry in the output JSON list stores the following information for each N4L relation:
 - Node Source
@@ -45,4 +52,8 @@ These three can be already found in this repository.
 
 For proceeding directly to the browser, one shall click on `Start Graph Browsing` button.
 <img width="631" height="414" alt="image" src="https://github.com/user-attachments/assets/d83a61b5-ae61-4f23-b48c-d035b557f975" />
-
+## Picking Files
+In this window, one shall choose which N4L files he would like to include in his search. As shown, there is a drop list having all the compiled N4L files viewed where the user can easily choose among them using the checkboxes.
+<img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/7c521210-aaf1-4c16-bdbf-0b5e81ff8ecd" />
+Additionally, the input bar allows for doing alphabetical search for any of the files in the list as shown in the following figure.
+<img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/e4bca161-5d4f-4313-b821-03f6fd51c6c1" />
