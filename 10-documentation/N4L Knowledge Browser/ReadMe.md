@@ -1,5 +1,5 @@
-KViz N4L Knowledge Browser
-Table of Contents:-
+# KViz N4L Knowledge Browser
+## Table of Contents:-
 - Introduction
 -	System Architecture
 -	Compiler Role
@@ -10,5 +10,5 @@ Table of Contents:-
 -	Markdown Browser
 -	Conclusion
 -	Author
-Introduction
+## Introduction
 
