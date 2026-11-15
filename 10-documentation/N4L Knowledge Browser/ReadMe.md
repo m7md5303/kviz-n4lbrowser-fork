@@ -85,3 +85,39 @@ This toolbox allows the user to search among 7 different search filters. If one 
 - Node entry: This one is used when the user is concerned about a certain node in general and wants to retrieves its relations whether when it comes as a source or destination.
 
 As mentioned before, when any entry is left without modification, this category is not filtered in the search. The Search toolbox controls simultaneously the Graph view and the Notes View.  
+
+## Graph and Notes Browsers
+KViz supports browsing through N4L relations whether in graph setting or textual lines. For handling large files without resulting in a messy graph, the browser internally performs paging when the number of retrieved relations is more than 25. Thus each page views 25 relations at most, and if exceeds, you will find in the navigation panel the total number of pages you can navigate through using the small right and left arrows.
+<img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/68c25f83-9c71-4495-a0eb-30c20e4bbc91" />
+The fit view shows all relations at once. However, through the usage of React Flow library, the browser supports:-
+
+- Zooming in and Out
+
+<img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/738f439c-88f8-4ca1-9258-246a0114c72f" />
+
+- Dragging a single or a group of nodes helps in creating custom Knowledge trees:
+
+<img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/23e31628-13b1-4ddd-b3d4-7a4a78c07918" />
+
+- Selecting certain area in the graph:
+
+<img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/b9f73ebc-2e80-4805-abd2-d1fdda0264bb" />
+
+- Small navigation map at the bottom right of the graph to avoid getting lost in the graph:
+
+<img width="752" height="243" alt="image" src="https://github.com/user-attachments/assets/1c48741b-d595-44ed-8f9b-0cbdcb6f8666" />
+
+Additionally, the arrows rendering follow the following convention:
+
+- NR group has greenish color
+
+- LT group has reddish color
+
+- CN group has bluish color
+
+- EP group has yellowish color
+
+This palette helps the user to differentiate among different relations in the graph 
+
+<img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/766c0391-2543-4c21-992f-e51ff6b523da" />
+
