@@ -148,3 +148,13 @@ This provides users with full accessibility to the knowledge database displayed 
 Additionally, semantic search feature is added to allow users to ask questions and get relevant answers directly from the corresponding parts in the files. This feature relies on vectorizing the question and the markdown files and doing cosine similarity calculations. The used embedder model for the vectorizing process is `All-MiniLM-L6-v2` which is less than 90 MB.
 
 <img width="1600" height="1031" alt="image" src="https://github.com/user-attachments/assets/1deb7ff3-9647-4779-9931-fc935c304680" />
+
+
+## Conclusion
+As a conclusion, KViz provides more than one viewing mode for allowing users of different preferences to have the availability to surf through the knowledge database. The project shows high potential in contributing to the portability of knowledge, specially those related to Hardware and Software Projects Documentation.
+
+## Author
+
+<p>This document and the software tool is authored by <a href="https://github.com/m7md5303" style="color: #2c7da0;"> Mohamed Khaled</a> from <strong>Symbiotic EDA</strong></p>
+
+<img src="./imgs/symbioticlogo.png" style="max-width: 200px; border-radius: 16px; margin: 20px 0;">
