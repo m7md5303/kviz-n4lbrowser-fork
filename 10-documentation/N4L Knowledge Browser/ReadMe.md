@@ -157,4 +157,4 @@ As a conclusion, KViz provides more than one viewing mode for allowing users of 
 
 <p>This document and the software tool is authored by <a href="https://github.com/m7md5303" style="color: #2c7da0;"> Mohamed Khaled</a> from <strong>Symbiotic EDA</strong></p>
 
-<img src="./imgs/symbioticlogo.png" style="max-width: 200px; border-radius: 16px; margin: 20px 0;">
+<img src="./../N4L for Documentation/imgs/symbioticlogo.png" style="max-width: 200px; border-radius: 16px; margin: 20px 0;">
