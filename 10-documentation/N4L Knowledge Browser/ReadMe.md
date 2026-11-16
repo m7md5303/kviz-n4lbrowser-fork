@@ -135,3 +135,16 @@ Following the same convention, the arrows are colored according to the same used
 
 Search Result example (already given in the Graph view):
 <img width="1600" height="1031" alt="image" src="https://github.com/user-attachments/assets/42c19f66-13f4-4b9e-bd17-a242678844a9" />
+
+As shown in the past two examples, retrieved notes are titled by their corresponding chapter and context so that the user can know from where the shown relations are coming from.
+
+## Markdown Browser
+The third browser is concerned about surfing through the N4L files but as markdown files while adding semantic search availability. This view allows the user to navigate through the retrieved files (chosen in the N4L Picker window) in markdown format.
+
+<img width="1600" height="1031" alt="image" src="https://github.com/user-attachments/assets/3a78e93b-3d6f-4552-b903-9de35f73d636" />
+
+This provides users with full accessibility to the knowledge database displayed in plain English text as N4L arrows are rendered in their English meaning.
+
+Additionally, semantic search feature is added to allow users to ask questions and get relevant answers directly from the corresponding parts in the files. This feature relies on vectorizing the question and the markdown files and doing cosine similarity calculations. The used embedder model for the vectorizing process is `All-MiniLM-L6-v2` which is less than 90 MB.
+
+<img width="1600" height="1031" alt="image" src="https://github.com/user-attachments/assets/1deb7ff3-9647-4779-9931-fc935c304680" />
