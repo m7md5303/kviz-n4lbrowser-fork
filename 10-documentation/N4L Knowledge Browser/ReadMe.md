@@ -87,7 +87,11 @@ This toolbox allows the user to search among 7 different search filters. If one 
 As mentioned before, when any entry is left without modification, this category is not filtered in the search. The Search toolbox controls simultaneously the Graph view and the Notes View.  
 
 ## Graph and Notes Browsers
-KViz supports browsing through N4L relations whether in graph setting or textual lines. For handling large files without resulting in a messy graph, the browser internally performs paging when the number of retrieved relations is more than 25. Thus each page views 25 relations at most, and if exceeds, you will find in the navigation panel the total number of pages you can navigate through using the small right and left arrows.
+KViz supports browsing through N4L relations whether in graph setting or textual lines. Both views are explained in the following sub-sections.
+
+### Graph View
+
+For handling large files without resulting in a messy graph, the browser internally performs paging when the number of retrieved relations is more than 25. Thus each page views 25 relations at most, and if exceeds, you will find in the navigation panel the total number of pages you can navigate through using the small right and left arrows.
 <img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/68c25f83-9c71-4495-a0eb-30c20e4bbc91" />
 The fit view shows all relations at once. However, through the usage of React Flow library, the browser supports:-
 
@@ -99,7 +103,7 @@ The fit view shows all relations at once. However, through the usage of React Fl
 
 <img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/23e31628-13b1-4ddd-b3d4-7a4a78c07918" />
 
-- Selecting certain area in the graph:
+- Selecting certain area in the graph and allowing for their dragging together:
 
 <img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/b9f73ebc-2e80-4805-abd2-d1fdda0264bb" />
 
@@ -121,3 +125,13 @@ This palette helps the user to differentiate among different relations in the gr
 
 <img width="1600" height="1024" alt="image" src="https://github.com/user-attachments/assets/766c0391-2543-4c21-992f-e51ff6b523da" />
 
+### Notes View
+
+This view is responsible for viewing the retrieved N4L relations in textual format. As mentioned earlier, the Search toolbox controls simultaneously the Graph and Notes views. However, in this view, the browsed relations are 50 relations at max per page. Hence, if retrieved relations were more than 50, you would find more pages to navigate through via the same navigation arrows.
+
+Following the same convention, the arrows are colored according to the same used palette in the Graph view corresponding to the group they are coming from. It is clear that the both here and in the Graph view, the arrow meaning is viewed rather than its representation in N4L in order to make it easier for everyone who might surf through the database even if he wasn't the author of the source N4L files.
+
+<img width="1600" height="1031" alt="image" src="https://github.com/user-attachments/assets/a2cedefc-2f1b-4ace-be55-ad978abf4da1" />
+
+Search Result example (already given in the Graph view):
+<img width="1600" height="1031" alt="image" src="https://github.com/user-attachments/assets/42c19f66-13f4-4b9e-bd17-a242678844a9" />
