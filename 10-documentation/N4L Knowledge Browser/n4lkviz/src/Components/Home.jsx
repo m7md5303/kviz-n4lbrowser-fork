@@ -3,11 +3,13 @@ import { Fade } from "react-awesome-reveal";
 import mainimg from '../Images/Neon Knowledge Network Logo.png'
 export default function Home(props) {
     
+  useEffect(() => {
+      window.scrollTo(0, 0);
+  }, []);
 
     return (
          <Fade delay={150}>
             <div className='home'>
-                {window.scrollTo(0,0)}
                 <img className = 'homeimg' src={mainimg}/>
                 <div className='homebtns'>
                     <button className='homebtn' 

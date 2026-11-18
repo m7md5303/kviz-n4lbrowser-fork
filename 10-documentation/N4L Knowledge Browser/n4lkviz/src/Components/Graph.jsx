@@ -334,9 +334,12 @@ export default function Graph(props) {
         }
     }, [index]);
 
+  useEffect(() => {
+      window.scrollTo(0, 0);
+  }, []);
+
     return (
         <div className='graph'>
-            {window.scrollTo(0,0)}
             <Fade delay={150}>
 
                 <div className='graphintro'>

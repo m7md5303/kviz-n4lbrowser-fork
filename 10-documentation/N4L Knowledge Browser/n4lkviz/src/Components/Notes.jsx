@@ -220,10 +220,13 @@ export default function Notes(props) {
         }
     }, [index]);
 
+  useEffect(() => {
+      window.scrollTo(0, 0);
+  }, []);
+
 
     return (
         <div className='notes'>
-            {window.scrollTo(0,0)}
             <Fade delay={150}>
                 <div className='notesintro'>
                     <h1 className='mdh1'>N4L Notes Viewer</h1>

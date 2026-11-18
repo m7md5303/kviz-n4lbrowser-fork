@@ -28,10 +28,13 @@ export default function Filter(props) {
             .catch((error) => console.error(error));
     }, []);
 
+  useEffect(() => {
+      window.scrollTo(0, 0);
+  }, []);
+
     return (
         
         <div className='filter'>
-            {window.scrollTo(0,0)}
             <Fade delay={150}>
                 <div className='filterintro'>
                     <h1>N4L Picker</h1>

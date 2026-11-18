@@ -121,9 +121,13 @@ useEffect(() => {
         }
     }
 
+  useEffect(() => {
+      window.scrollTo(0, 0);
+  }, []);
+
+
     return (
         <div className='text'>
-            {window.scrollTo(0,0)}
                 <div className='textintro'>
                     <h1 className='mdh1'>Notes Markdown Viewer</h1>
 
