@@ -1,4 +1,5 @@
 import React from 'react'
+import { useState, useEffect } from 'react';
 import { Fade } from "react-awesome-reveal";
 import mainimg from '../Images/Neon Knowledge Network Logo.png'
 export default function Home(props) {
