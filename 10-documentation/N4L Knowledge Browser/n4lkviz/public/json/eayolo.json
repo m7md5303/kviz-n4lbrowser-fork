@@ -1,0 +1,1242 @@
+{
+    "0": {
+        "source": "Our-team",
+        "arrow": "grp-of",
+        "meaning": "is a group of",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "6 Members",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "1": {
+        "source": "Our-team",
+        "arrow": "name",
+        "meaning": "has name",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Electronic Aliens",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "2": {
+        "source": "Our-team",
+        "arrow": "prop",
+        "meaning": "proposes",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "System",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "3": {
+        "source": "System",
+        "arrow": "succ1",
+        "meaning": "succeeds",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "in helping drivers to automate the cruise",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "4": {
+        "source": "Our-team",
+        "arrow": "suportby",
+        "meaning": "is supported by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "two supervisors",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "5": {
+        "source": "Excluding software",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "more optimization",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "6": {
+        "source": "Excluding software",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "more hands-on experience with hardware",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "7": {
+        "source": "Autonomous cars",
+        "arrow": "e.g.",
+        "meaning": "has example",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Tesla Cars",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "8": {
+        "source": "System",
+        "arrow": "chkli-it",
+        "meaning": "has checklist item",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "Hardware either FPGA or ASIC",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "9": {
+        "source": "System",
+        "arrow": "chkli-it",
+        "meaning": "has checklist item",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "no employed software",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "10": {
+        "source": "System",
+        "arrow": "chkli-it",
+        "meaning": "has checklist item",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "autonomous driving",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "11": {
+        "source": "System",
+        "arrow": "chkli-it",
+        "meaning": "has checklist item",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "deployment of AI on hardware",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Idea start"
+    },
+    "12": {
+        "source": "project codes",
+        "arrow": "resource",
+        "meaning": "has resource/reference",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "github.com/m7md5303/pure-hardware-YOLO-inference",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Accessibility"
+    },
+    "13": {
+        "source": "open-source",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "reproduction",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Accessibility"
+    },
+    "14": {
+        "source": "open-source",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "receiving suggestions for improving the project",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Accessibility"
+    },
+    "15": {
+        "source": "Project Repository",
+        "arrow": "includes",
+        "meaning": "includes",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "detailing Readme file for its structure",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Accessibility"
+    },
+    "16": {
+        "source": "Project Repository",
+        "arrow": "includes",
+        "meaning": "includes",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "colab notebooks codes",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Accessibility"
+    },
+    "17": {
+        "source": "Project Repository",
+        "arrow": "includes",
+        "meaning": "includes",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Verilog code for post-processing unit",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Accessibility"
+    },
+    "18": {
+        "source": "Project Repository",
+        "arrow": "includes",
+        "meaning": "includes",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Systemverilog testbench for the system",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Accessibility"
+    },
+    "19": {
+        "source": "project",
+        "arrow": "ass",
+        "meaning": "associated with",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "MIT License",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "License"
+    },
+    "20": {
+        "source": "MIT License",
+        "arrow": "in-grp",
+        "meaning": "is an element of",
+        "direction": "negative",
+        "group": "CN",
+        "destination": "open-source famous licenses",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "License"
+    },
+    "21": {
+        "source": "MIT License",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "reusability with preserving the authors rights",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "License"
+    },
+    "22": {
+        "source": "Our-team",
+        "arrow": "dec",
+        "meaning": "decides",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "using AI algorithm for autonomous vehicles",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "23": {
+        "source": "AI algorithm",
+        "arrow": "dep-by",
+        "meaning": "deployed by",
+        "direction": "negative",
+        "group": "EP",
+        "destination": "Our-team on FPGA",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "24": {
+        "source": "Research",
+        "arrow": "conducted",
+        "meaning": "conducted by",
+        "direction": "negative",
+        "group": "EP",
+        "destination": "Our-team for getting the most suitable AI algorithm",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "25": {
+        "source": "Convolutional Neural Networks",
+        "arrow": "knownfor",
+        "meaning": "is known for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "efficienct in Computer Vision Applications",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "26": {
+        "source": "Convolutional Neural Networks",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "CNN",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "27": {
+        "source": "CNN",
+        "arrow": "use-for",
+        "meaning": "used for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "detecting objects and classification",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "28": {
+        "source": "R-CNN",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Regional CNN",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "29": {
+        "source": "R-CNN",
+        "arrow": "knownfor",
+        "meaning": "is known for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "producing accurate output",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "30": {
+        "source": "R-CNN",
+        "arrow": "knownfor",
+        "meaning": "is known for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "high latency",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "31": {
+        "source": "YOLO",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "low latency inference",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "32": {
+        "source": "YOLO",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "satisfactory accuracy",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "33": {
+        "source": "YOLO",
+        "arrow": "sfor",
+        "meaning": "stands for",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "You Only Look Once",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "34": {
+        "source": "The choice",
+        "arrow": "imply",
+        "meaning": "implies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "hardware-friendly implementation",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Literature Review"
+    },
+    "35": {
+        "source": "Our-team",
+        "arrow": "dec",
+        "meaning": "decides",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "to implement the system on ZCU102",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "36": {
+        "source": "Electronics Research Institute",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "ERI",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "37": {
+        "source": "Electronics Research Institute",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "usage of ZCU102 for Our-team",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "38": {
+        "source": "ZCU102",
+        "arrow": "knownfor",
+        "meaning": "is known for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "its high capabilities",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "39": {
+        "source": "ZCU102",
+        "arrow": "knownfor",
+        "meaning": "is known for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "being MPSoC",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "40": {
+        "source": "MPSoC",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Multi-Processor System-on-Chip",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "41": {
+        "source": "As the target for our-team was to use pure-hardware, the PS",
+        "arrow": "sfor",
+        "meaning": "stands for",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "Processing System side was not used",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "42": {
+        "source": "Our-team",
+        "arrow": "dec",
+        "meaning": "decides",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "to use the PL part only of ZCU102",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "43": {
+        "source": "PL",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Programmable Logic",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "44": {
+        "source": "PL",
+        "arrow": "means",
+        "meaning": "means",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "FPGA side of the SoC",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Target Hardware"
+    },
+    "45": {
+        "source": "System",
+        "arrow": "consists",
+        "meaning": "consists of",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "accelerator and post-processing block",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "46": {
+        "source": "System",
+        "arrow": "source",
+        "meaning": "has source",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "of AXI-stream data",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "47": {
+        "source": "System",
+        "arrow": "source-of",
+        "meaning": "the source for",
+        "direction": "negative",
+        "group": "EP",
+        "destination": "Inference output in the form of AXI-stream",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "48": {
+        "source": "System",
+        "arrow": "imply",
+        "meaning": "implies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "only hardware modules on FPGA",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "49": {
+        "source": "AXI-Stream data",
+        "arrow": "repr",
+        "meaning": "represents/models",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "input image",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "50": {
+        "source": "AXI-Stream",
+        "arrow": "knownfor",
+        "meaning": "is known for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "efficiency in image processing applications",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "51": {
+        "source": "AXI-Stream",
+        "arrow": "imply",
+        "meaning": "implies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "low communication overhead",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "52": {
+        "source": "AXI-Stream",
+        "arrow": "used-by",
+        "meaning": "is used by",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "most of Xilinx IPs",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "53": {
+        "source": "Our-team",
+        "arrow": "dec",
+        "meaning": "decides",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "to use AXI-Stream as the System input and output interface",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "54": {
+        "source": "input image",
+        "arrow": "setof",
+        "meaning": "is a set of",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "416 x 416 pixels",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "55": {
+        "source": "input image",
+        "arrow": "repr",
+        "meaning": "represents/models",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "the road view",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "56": {
+        "source": "input image",
+        "arrow": "setof",
+        "meaning": "is a set of",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "stream of bytes packed in AXI-Stream frames",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "57": {
+        "source": "Inference output",
+        "arrow": "consists",
+        "meaning": "consists of",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "13 row_det signals and detect_valid bit",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "58": {
+        "source": "13 row_det signals",
+        "arrow": "repr",
+        "meaning": "represents/models",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "13 x 13 grid",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "59": {
+        "source": "one row_det signal",
+        "arrow": "repr",
+        "meaning": "represents/models",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "13 horizontal line of 13 x 13 grid",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "60": {
+        "source": "each bit",
+        "arrow": "repr",
+        "meaning": "represents/models",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "32 x 32 pixels",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "61": {
+        "source": "each grid predicition",
+        "arrow": "ass",
+        "meaning": "associated with",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "high detect_valid",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "62": {
+        "source": "This approach",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "more safety",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "63": {
+        "source": "This approach",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "faster response",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Block Diagram"
+    },
+    "64": {
+        "source": "The used YOLO model",
+        "arrow": "called",
+        "meaning": "is called",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "LPYOLO",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "65": {
+        "source": "neural network",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "NN",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "66": {
+        "source": "neural network",
+        "arrow": "use-for",
+        "meaning": "used for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "object-detection",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "67": {
+        "source": "neural network",
+        "arrow": "called",
+        "meaning": "is called",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Low-Precesion You-Only-Look-Once in System",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "68": {
+        "source": "LPYOLO",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Low-Percision You-Only-Look-Once",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "69": {
+        "source": "LPYOLO",
+        "arrow": "variant",
+        "meaning": "is a variant of",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "YOLO",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "70": {
+        "source": "LPYOLO",
+        "arrow": "repl",
+        "meaning": "replaces",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "sigmoid with hard tanh for hardware compatibility",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "71": {
+        "source": "LPYOLO",
+        "arrow": "crtd",
+        "meaning": "is created by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "Sefa Burak in 2022",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "72": {
+        "source": "Our-team",
+        "arrow": "train",
+        "meaning": "train",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "LPYOLO to serve the cars detection purpose",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "73": {
+        "source": "used dataset is cars detection dataset",
+        "arrow": "pub-by",
+        "meaning": "was published by",
+        "direction": "negative",
+        "group": "EP",
+        "destination": "some user on Kaggle",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "74": {
+        "source": "Sigmoid replacement",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "being more friendly to hardware deployment",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "75": {
+        "source": "accelerator",
+        "arrow": "means",
+        "meaning": "means",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Neural network after hardware transformation",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "76": {
+        "source": "accelerator",
+        "arrow": "called",
+        "meaning": "is called",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "streamingdataflowpartition",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "77": {
+        "source": "accelerator",
+        "arrow": "bfr",
+        "meaning": "comes before",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "post-processing block",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "78": {
+        "source": "accelerator",
+        "arrow": "suppl",
+        "meaning": "supplies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "post-processing block with raw detection bytes of the NN core computations",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "79": {
+        "source": "accelerator",
+        "arrow": "genby",
+        "meaning": "is generated by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "FINN Framework",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "80": {
+        "source": "FINN Framework",
+        "arrow": "gen",
+        "meaning": "generates",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "Hardware IP for NN",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "81": {
+        "source": "FINN Framework",
+        "arrow": "crtd",
+        "meaning": "is created by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "Xilinx Reasearch Lab",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "82": {
+        "source": "FINN flow",
+        "arrow": "consists",
+        "meaning": "consists of",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "6 stages",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "83": {
+        "source": "FINN flow",
+        "arrow": "resource",
+        "meaning": "has resource/reference",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "medium.com/@m7md5303/finn-framework-nn-to-ip-dc88df882a5b",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "84": {
+        "source": "post-processing module",
+        "arrow": "called",
+        "meaning": "is called",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "yolo_post",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "85": {
+        "source": "yolo_post",
+        "arrow": "implorg",
+        "meaning": "was implemented by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "Verilog",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "86": {
+        "source": "Verilog",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "good resource control",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "87": {
+        "source": "Verilog",
+        "arrow": "support",
+        "meaning": "supports",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "higher throughput",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "88": {
+        "source": "raw detection bytes",
+        "arrow": "bwd",
+        "meaning": "comes from",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "accelerator",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "89": {
+        "source": "yolo_post",
+        "arrow": "do",
+        "meaning": "action to take",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "processing on raw detection bytes",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "90": {
+        "source": "third of raw detection bytes",
+        "arrow": "repr",
+        "meaning": "represents/models",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "probability of class and objectness scores",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "91": {
+        "source": "NN output",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "three anchor boxes",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "92": {
+        "source": "Each anchor box",
+        "arrow": "gen",
+        "meaning": "generates",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "6 bytes",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "93": {
+        "source": "The last two bytes of these 6 bytes",
+        "arrow": "repr",
+        "meaning": "represents/models",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "probability of class and objectness scores",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "94": {
+        "source": "class and objectness score",
+        "arrow": "repr-by",
+        "meaning": "is represented/modelled by",
+        "direction": "negative",
+        "group": "EP",
+        "destination": "two bytes for each anchor box",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "95": {
+        "source": "class and objectness score",
+        "arrow": "det",
+        "meaning": "determines",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "the presence of cars when multiplied together",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "96": {
+        "source": "The multiplication",
+        "arrow": "imply",
+        "meaning": "implies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "no floating point operations",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "97": {
+        "source": "System",
+        "arrow": "consider",
+        "meaning": "consider",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "three anchor boxes for safety purposes",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "More Details about the System"
+    },
+    "98": {
+        "source": "Jupyter Notebooks",
+        "arrow": "use-for",
+        "meaning": "used for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "most of the implementation flow",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "99": {
+        "source": "Colab Cloud",
+        "arrow": "use-for",
+        "meaning": "used for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "training and exporting",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "100": {
+        "source": "Colab Cloud",
+        "arrow": "prov-by",
+        "meaning": "is provisioned by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "Google",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "101": {
+        "source": "After training the NN, trained model",
+        "arrow": "derive",
+        "meaning": "from which we derive",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "QONNX file",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "102": {
+        "source": "QONNX file",
+        "arrow": "repr",
+        "meaning": "represents/models",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "quantized NN",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "103": {
+        "source": "QONNX file",
+        "arrow": "delivaddr",
+        "meaning": "delivered to",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "FINN for the transformations",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "104": {
+        "source": "transformations",
+        "arrow": "involves",
+        "meaning": "involves",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "elimination floating point operations and NN layers to Hardware Conversions",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "105": {
+        "source": "FINN Framework",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "transformations checking",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "106": {
+        "source": "transformations checking",
+        "arrow": "sh-precede",
+        "meaning": "should precede/come before",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "IP generation",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "107": {
+        "source": "Parallelism degree of the accelerator",
+        "arrow": "det-by",
+        "meaning": "is determined by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "configurations",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "108": {
+        "source": "configurations",
+        "arrow": "dec-by",
+        "meaning": "decided by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "designer",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "109": {
+        "source": "accelerator clock frequency",
+        "arrow": "det-by",
+        "meaning": "is determined by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "designer",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "110": {
+        "source": "FINN flow",
+        "arrow": "imply",
+        "meaning": "implies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "running Jupyter Notebooks on local host",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "111": {
+        "source": "post-processing",
+        "arrow": "handle-by",
+        "meaning": "is handled by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "yolo_post",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "112": {
+        "source": "yolo_post",
+        "arrow": "involves",
+        "meaning": "involves",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "no floating point operations",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "113": {
+        "source": "yolo_post",
+        "arrow": "uses",
+        "meaning": "makes use of",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "Verilog functions for tidying the code",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Implementation"
+    },
+    "114": {
+        "source": "Testing on PYNQ-Z2",
+        "arrow": "uses",
+        "meaning": "makes use of",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "Xilinx AXI DMA for sending test images",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "115": {
+        "source": "Design on PYNQ-Z2",
+        "arrow": "imply",
+        "meaning": "implies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "lower clock frequency because the lack in resources",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "116": {
+        "source": "Clock frequency on PYNQ-z2",
+        "arrow": "hasX",
+        "meaning": "has value",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "100 MHz",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "117": {
+        "source": "System",
+        "arrow": "gen",
+        "meaning": "generates",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "high-valued bits for grids",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "118": {
+        "source": "high-valued bits for grids",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "cars",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "119": {
+        "source": "System",
+        "arrow": "fwd",
+        "meaning": "leads to",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "reliable inference results",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "120": {
+        "source": "System",
+        "arrow": "pub-by",
+        "meaning": "was published by",
+        "direction": "negative",
+        "group": "EP",
+        "destination": "Our team in IEEE ICECS25 Proceedings",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "121": {
+        "source": "System",
+        "arrow": "succ1",
+        "meaning": "succeeds",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "real-rime processings",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "122": {
+        "source": "Inference-rate",
+        "arrow": "hasX",
+        "meaning": "has value",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "67 FPS on ZCU102",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    },
+    "123": {
+        "source": "Inference-rate",
+        "arrow": "hasX",
+        "meaning": "has value",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "18 FPS on PYNQ-Z2",
+        "chapter": "Pure Hardware YOLO Inference",
+        "context": "Inference Results"
+    }
+}

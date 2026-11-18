@@ -1,0 +1,822 @@
+{
+    "0": {
+        "source": "Framework",
+        "arrow": "name",
+        "meaning": "has name",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "SV2 Analyzer",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "1": {
+        "source": "Framework",
+        "arrow": "trgs",
+        "meaning": "targets",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "accelerating digital verification flow",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "2": {
+        "source": "Framework",
+        "arrow": "trgs",
+        "meaning": "targets",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "helping verification engineers and students",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "3": {
+        "source": "Framework",
+        "arrow": "prop",
+        "meaning": "proposes",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "open-source solution",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "4": {
+        "source": "Framework",
+        "arrow": "intention",
+        "meaning": "has purpose or intent",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "providing solution for what is lacking from frameworks in literature",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "5": {
+        "source": "Current era",
+        "arrow": "ass",
+        "meaning": "associated with",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "embedding AI in used tools",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "6": {
+        "source": "EDA",
+        "arrow": "sfor",
+        "meaning": "stands for",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "Electronic Design Automation",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "7": {
+        "source": "EDA",
+        "arrow": "suppl",
+        "meaning": "supplies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "their tools with AI solutions",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "8": {
+        "source": "Integrating AI with EDA tools",
+        "arrow": "fwd",
+        "meaning": "leads to",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "increasing teams productivity",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "9": {
+        "source": "Work author",
+        "arrow": "consider",
+        "meaning": "consider",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "sustainability of the tool",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "10": {
+        "source": "Work author",
+        "arrow": "called",
+        "meaning": "is called",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Mohamed Khaled",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "11": {
+        "source": "Work author",
+        "arrow": "published",
+        "meaning": "is the publisher of",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "the work in  IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "12": {
+        "source": "IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "3SCEA",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "13": {
+        "source": "IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications",
+        "arrow": "where",
+        "meaning": "takes place at location",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "Cairo in Egypt",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "14": {
+        "source": "The tool",
+        "arrow": "has prereq",
+        "meaning": "has prerequisite",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "memory-efficiency",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "15": {
+        "source": "The tool",
+        "arrow": "has prereq",
+        "meaning": "has prerequisite",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "reachability",
+        "chapter": "SV2 Analyzer",
+        "context": "Introduction"
+    },
+    "16": {
+        "source": "SV2 Analyzer",
+        "arrow": "ass",
+        "meaning": "associated with",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "MIT License",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "17": {
+        "source": "SV2 Analyzer",
+        "arrow": "resource",
+        "meaning": "has resource/reference",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "\"https://github.com/m7md5303/SV2_Analyzer\"",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "18": {
+        "source": "MIT License",
+        "arrow": "knownfor",
+        "meaning": "is known for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "licensing open-source projects",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "19": {
+        "source": "MIT License",
+        "arrow": "result",
+        "meaning": "results in",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "preserving the author rights",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "20": {
+        "source": "Publishing the code",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "developability",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "21": {
+        "source": "Publishing the code",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "reachability by engineers and students",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "22": {
+        "source": "Original paper",
+        "arrow": "pub-by",
+        "meaning": "was published by",
+        "direction": "negative",
+        "group": "EP",
+        "destination": "IEEEXplore",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "23": {
+        "source": "Original paper",
+        "arrow": "pt-of",
+        "meaning": "is a part of",
+        "direction": "negative",
+        "group": "CN",
+        "destination": "3SCEA proceedings",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "24": {
+        "source": "Original paper",
+        "arrow": "resource",
+        "meaning": "has resource/reference",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "\"https://ieeexplore.ieee.org/document/11602718/\"",
+        "chapter": "SV2 Analyzer",
+        "context": "Accessibility"
+    },
+    "25": {
+        "source": "Works in literature",
+        "arrow": "consider",
+        "meaning": "consider",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "HDL generation automation",
+        "chapter": "SV2 Analyzer",
+        "context": "Literature Review"
+    },
+    "26": {
+        "source": "Works in literature",
+        "arrow": "consider",
+        "meaning": "consider",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "SystemVerilog assertions generations",
+        "chapter": "SV2 Analyzer",
+        "context": "Literature Review"
+    },
+    "27": {
+        "source": "Works in literature",
+        "arrow": "consider",
+        "meaning": "consider",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "introducing testcases for increasing coverage results",
+        "chapter": "SV2 Analyzer",
+        "context": "Literature Review"
+    },
+    "28": {
+        "source": "Works in literature",
+        "arrow": "has no",
+        "meaning": "does not contain",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "features of interpreting testbenches",
+        "chapter": "SV2 Analyzer",
+        "context": "Literature Review"
+    },
+    "29": {
+        "source": "Works in literature",
+        "arrow": "has no",
+        "meaning": "does not contain",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "features for suggesting enhancements for the testbench modularity and quality",
+        "chapter": "SV2 Analyzer",
+        "context": "Literature Review"
+    },
+    "30": {
+        "source": "Works in literature",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "mostly closed-source AI models",
+        "chapter": "SV2 Analyzer",
+        "context": "Literature Review"
+    },
+    "31": {
+        "source": "Closed-source AI models",
+        "arrow": "aff",
+        "meaning": "affects",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "badly the potential of developing tools using them",
+        "chapter": "SV2 Analyzer",
+        "context": "Literature Review"
+    },
+    "32": {
+        "source": "SV2 Analyzer",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "5 modes",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "33": {
+        "source": "SV2 Analyzer",
+        "arrow": "support",
+        "meaning": "supports",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "Verilog",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "34": {
+        "source": "SV2 Analyzer",
+        "arrow": "support",
+        "meaning": "supports",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "SystemVerilog",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "35": {
+        "source": "SV2 Analyzer",
+        "arrow": "support",
+        "meaning": "supports",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "UVM",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "36": {
+        "source": "SV2 Analyzer",
+        "arrow": "consists",
+        "meaning": "consists of",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "2 open-source AI Models",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "37": {
+        "source": "SV2 Analyzer Modes",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "Interpretation mode",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "38": {
+        "source": "SV2 Analyzer Modes",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "Suggesting Enhancements mode",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "39": {
+        "source": "SV2 Analyzer Modes",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "Catching Potential Flaws mode",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "40": {
+        "source": "SV2 Analyzer Modes",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "General Query mode",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "41": {
+        "source": "SV2 Analyzer Modes",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "Parsing mode",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "42": {
+        "source": "SV2 Analyzer user",
+        "arrow": "det",
+        "meaning": "determines",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "the used verification methodology for each prompt",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "43": {
+        "source": "Interpretation mode",
+        "arrow": "use-for",
+        "meaning": "used for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "interpreting the given code snippet",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "44": {
+        "source": "Interpretation mode",
+        "arrow": "use-for",
+        "meaning": "used for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "speeding up the udnerstanding of testbenches and the used code blocks in it",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "45": {
+        "source": "RAG",
+        "arrow": "sfor",
+        "meaning": "stands for",
+        "direction": "positive",
+        "group": "NR",
+        "destination": "Retrieval Augmented Generation",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "46": {
+        "source": "RAG",
+        "arrow": "use-for",
+        "meaning": "used for",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "supporting the LLM with grounding data from a vector database",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "47": {
+        "source": "The first four modes",
+        "arrow": "feat",
+        "meaning": "has feature",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "RAG",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "48": {
+        "source": "Suggesting Enhancements mode",
+        "arrow": "prop",
+        "meaning": "proposes",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "enhancements to the user",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "49": {
+        "source": "Suggesting Enhancements mode",
+        "arrow": "trgs",
+        "meaning": "targets",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "saving more time for improving the testbench",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "50": {
+        "source": "Suggested enhancements",
+        "arrow": "includes",
+        "meaning": "includes",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "how to modularize the testbench",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "51": {
+        "source": "Suggested enhancements",
+        "arrow": "includes",
+        "meaning": "includes",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "how to make the testbench aligned with best-practice techniques",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "52": {
+        "source": "Catching Potential Flaws mode",
+        "arrow": "support",
+        "meaning": "supports",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "junior engineers and students in catching potential issues with their codes",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "53": {
+        "source": "Catching Potential Flaws mode",
+        "arrow": "suportby",
+        "meaning": "is supported by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "RAG database",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "54": {
+        "source": "General Query mode",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "having a talking database for verification",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "55": {
+        "source": "having a talking database for verification",
+        "arrow": "support",
+        "meaning": "supports",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "students and learners for speeding up their learning process",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "56": {
+        "source": "Main Large Language Model",
+        "arrow": "base-of",
+        "meaning": "is the base of operations for",
+        "direction": "negative",
+        "group": "EP",
+        "destination": "four modes",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "57": {
+        "source": "Main Large Language Model",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "MLLM",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "58": {
+        "source": "Coder Large Language Model",
+        "arrow": "abbrev",
+        "meaning": "has abbreviation",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "CLLM",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "59": {
+        "source": "Coder Large Language Model",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "parsing the testbench metadata",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "60": {
+        "source": "Testbench metadata",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "generated clocks",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "61": {
+        "source": "Testbench metadata",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "defined behavioral blocks",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "62": {
+        "source": "Testbench metadata",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "instantiated modules",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "63": {
+        "source": "Testbench metadata",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "defined signals",
+        "chapter": "SV2 Analyzer",
+        "context": "System Architecture"
+    },
+    "64": {
+        "source": "SV2 Analyzer",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "Qwen 2",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "65": {
+        "source": "SV2 Analyzer",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "Deepseek coder",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "66": {
+        "source": "RAG model",
+        "arrow": "called",
+        "meaning": "is called",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "bge-large",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "67": {
+        "source": "Quantization for QWEN 2.5",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "faster inference",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "68": {
+        "source": "Quantization for QWEN 2.5",
+        "arrow": "enables",
+        "meaning": "enables",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "less memory",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "69": {
+        "source": "Author",
+        "arrow": "uses",
+        "meaning": "makes use of",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "Kaggle GPU T4 for hosting the system",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "70": {
+        "source": "The two models",
+        "arrow": "suportby",
+        "meaning": "is supported by",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "system prompt",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "71": {
+        "source": "The two models",
+        "arrow": "uses",
+        "meaning": "makes use of",
+        "direction": "negative",
+        "group": "LT",
+        "destination": "Langchain Framework",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "72": {
+        "source": "The two models",
+        "arrow": "resource",
+        "meaning": "has resource/reference",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "HuggingFace",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "73": {
+        "source": "Using the framework",
+        "arrow": "imply",
+        "meaning": "implies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "choosing the desired mode",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "74": {
+        "source": "Using the framework",
+        "arrow": "imply",
+        "meaning": "implies",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "choosing the target verification methodology",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "75": {
+        "source": "Code logic",
+        "arrow": "det",
+        "meaning": "determines",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "which LLM to receive the prompt",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "76": {
+        "source": "The chosen mode",
+        "arrow": "hbs",
+        "meaning": "is the base of",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "the operating LLM for each mode",
+        "chapter": "SV2 Analyzer",
+        "context": "System Implementation"
+    },
+    "77": {
+        "source": "system testing",
+        "arrow": "includes",
+        "meaning": "includes",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "two paths",
+        "chapter": "SV2 Analyzer",
+        "context": "System Testing"
+    },
+    "78": {
+        "source": "first path",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "84 tests for the MLLM in its four modes",
+        "chapter": "SV2 Analyzer",
+        "context": "System Testing"
+    },
+    "79": {
+        "source": "second path",
+        "arrow": "contain",
+        "meaning": "contains",
+        "direction": "positive",
+        "group": "CN",
+        "destination": "18 tests for the CLLM in the Parsing mode",
+        "chapter": "SV2 Analyzer",
+        "context": "System Testing"
+    },
+    "80": {
+        "source": "system testing",
+        "arrow": "result",
+        "meaning": "results in",
+        "direction": "positive",
+        "group": "LT",
+        "destination": "showing high potential for the framework for helping digital verification engineers and students",
+        "chapter": "SV2 Analyzer",
+        "context": "System Testing"
+    },
+    "81": {
+        "source": "SV2 Analyzer",
+        "arrow": "resource",
+        "meaning": "has resource/reference",
+        "direction": "positive",
+        "group": "EP",
+        "destination": "M. Khaled, \"SV2 Analyzer: Open-Source Large Language Model-Based Framework for Accelerating Digital Circuits Verification Flow,\" 2026 IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications 3SCEA, Cairo, Egypt, 2026, pp. 374-379, doi: 10.1109/3SCEA68071.2026.11602718. keywords: {Modeling;Printing;Codes;Design methodology;Databases;Standards;Large language models;Measurement;Testing;Artificial intelligence;Digital Verification;Large Language Model;Retrieval Augmented Generation;Hardware Description Language}",
+        "chapter": "SV2 Analyzer",
+        "context": "Conclusion"
+    }
+}
